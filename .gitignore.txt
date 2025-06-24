@@ -1,0 +1,20 @@
+# Angular
+node_modules/
+dist/
+.angular/
+
+# .NET Framework
+[Bb]in/
+[Oo]bj/
+_ReSharper*/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+*.vs/
+
+# General OS/editor junk
+.DS_Store
+Thumbs.db
+*.tmp
